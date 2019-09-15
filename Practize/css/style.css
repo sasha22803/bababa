@@ -1,0 +1,100 @@
+img {
+	border-radius: 50%;
+	width: 45%;
+	border: 14px solid grey;
+	border-top-color: LightGray;
+	border-bottom-color: LightGray;
+	border-left-color: white;
+	border-right-color: white;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+	border-width: 17px 10px 17px 10px;
+}
+
+.main {
+	background: #FAF9F9;
+	min-width: 320px;
+	max-width: 640px;;
+	text-align: center;
+	border-radius: 6px;
+	margin: auto;
+	padding: 30px;
+	box-shadow: 0 0 20px rgba(245, 245, 245, 1);
+	border: 45px;
+}
+
+.black {
+	background: black;
+	color: white;
+	height: 294px;
+	text-align: center;
+	margin: auto;
+}
+
+.white {
+	background: white;
+	width: 49%;
+	height: 250px;
+	display: inline-block;
+	color: black;
+	float: left;
+	font-size: 15px;
+}
+
+.white2 {
+	float: right;
+	background: white;
+	width: 49%;
+	height: 250px;
+	display: inline-block;
+	color: black;
+	font-size: 15px;
+}
+
+p {
+	text-align: left;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+ul {
+	list-style-type: none;
+	text-align: left;
+	line-height: 1.5;
+	background: white;
+	background-image: linear-gradient(rgba(0, 0, 0, .1) 50%, transparent 0);
+	background-size: auto 3em;
+}
+
+.fat {
+	font-weight: bold;
+}
+
+.righttext {
+	text-align: right;
+	letter-spacing: 2.5px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 18px;
+}
+
+body {
+	background: #2E2E2E;
+	font-family: Verdana;
+	font-size: 12px;
+}
+
+.center {
+	text-align: center;
+	font-family: Verdana;
+}
+
+.bigname {
+	font-size: 25px;
+	font-family: Franklin Gothic Medium;
+}
+
+.mini {
+	width: 480px;
+}
